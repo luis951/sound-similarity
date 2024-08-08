@@ -1,0 +1,9 @@
+venv/
+sound-creator/
+model/
+
+.cache
+*.sf2
+*.mid
+*.wav
+*.mp3
